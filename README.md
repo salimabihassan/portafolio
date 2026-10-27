@@ -25,6 +25,11 @@ desde la definición de necesidades hasta el diseño y la implementación.
 
 [Visitar la tienda](https://accesoriosmendez.cl)
 
+![Accesorios Méndez: portada](<Captura de pantalla 2026-10-27 180651.png>)
+
+![Accesorios Méndez: catálogo](<Captura de pantalla 2026-10-27 180845.png>)
+
+
 ## YURUANÍ — Sitio de servicios tecnológicos
 
 **Inicio:** agosto de 2026.
@@ -43,6 +48,8 @@ incluyendo estructura, diseño e implementación.
 **Tecnologías:** Next.js y React.
 
 [Visitar YURUANÍ](https://www.yuruani.cl)
+
+![YURUANÍ: sitio de servicios tecnológicos](<Captura de pantalla 2026-10-27 181402.png>)
 
 ## Sobre mi trabajo
 
